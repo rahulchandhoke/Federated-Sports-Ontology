@@ -4,7 +4,7 @@ This is the project setup for the Federated Ontology for sports domain.
 
 ## PROJECT AIM 
 
-This project aims at automating and orchestrating the report generation for USC Financial Aid.
+This project aims at creating a search-able Federated Ontology with data relating NFL players to their colleges and states.
 
 ## SOFTWARE REQUIREMENTS
 
@@ -21,6 +21,8 @@ Please use any one of the following text editors:
 To contribute to the code-base of this project, you should have installed/know the following:  
     1. AWS 
     2. git
+    3. Protege
+    4. SPARQL Server
     (Tech stack will be expanded as the project progresses)  
 
 Please ensure that you have everything installed and ready to go. 
