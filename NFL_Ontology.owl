@@ -1,0 +1,380 @@
+@prefix : <http://www.semanticweb.org/MyOntology#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/MyOntology> .
+
+<http://www.semanticweb.org/MyOntology> rdf:type owl:Ontology ;
+                                         rdfs:label "NFL Ontology" .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://www.semanticweb.org/MyOntology#Drafted_From
+:Drafted_From rdf:type owl:ObjectProperty ;
+              rdfs:domain :College ;
+              rdfs:range :Draft .
+
+
+###  http://www.semanticweb.org/MyOntology#Drafted_To
+:Drafted_To rdf:type owl:ObjectProperty ;
+            rdfs:domain :Draft ;
+            rdfs:range :Team .
+
+
+###  http://www.semanticweb.org/MyOntology#Lives_In
+:Lives_In rdf:type owl:ObjectProperty ;
+          rdfs:domain :Player ;
+          rdfs:range :State .
+
+
+###  http://www.semanticweb.org/MyOntology#Located_In
+:Located_In rdf:type owl:ObjectProperty ;
+            rdfs:domain :Team ;
+            rdfs:range :State .
+
+
+###  http://www.semanticweb.org/MyOntology#Part_Of
+:Part_Of rdf:type owl:ObjectProperty ;
+         rdfs:domain :Player ;
+         rdfs:range :Draft .
+
+
+###  http://www.semanticweb.org/MyOntology#Plays_For
+:Plays_For rdf:type owl:ObjectProperty ;
+           rdfs:domain :Player ;
+           rdfs:range :Team .
+
+
+###  http://www.semanticweb.org/MyOntology#Resides_In
+:Resides_In rdf:type owl:ObjectProperty ;
+            rdfs:domain :College ;
+            rdfs:range :State .
+
+
+###  http://www.semanticweb.org/MyOntology#Studied_At
+:Studied_At rdf:type owl:ObjectProperty ;
+            rdfs:domain :Player ;
+            rdfs:range :College .
+
+
+#################################################################
+#    Data properties
+#################################################################
+
+###  http://www.semanticweb.org/MyOntology#Address
+:Address rdf:type owl:DatatypeProperty ;
+         rdfs:domain :College ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Age
+:Age rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Draft ,
+                 :Player ;
+     rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#Bachelors_Degree
+:Bachelors_Degree rdf:type owl:DatatypeProperty ;
+                  rdfs:domain :State ;
+                  rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#ChiefName
+:ChiefName rdf:type owl:DatatypeProperty ;
+           rdfs:domain :College ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#ChiefTitle
+:ChiefTitle rdf:type owl:DatatypeProperty ;
+            rdfs:domain :College ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#City
+:City rdf:type owl:DatatypeProperty ;
+      rdfs:domain :College ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#College_ID
+:College_ID rdf:type owl:DatatypeProperty ;
+            rdfs:domain :College ;
+            rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#College_Name
+:College_Name rdf:type owl:DatatypeProperty ;
+              rdfs:domain :College ,
+                          :Draft ,
+                          :Player ;
+              rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#County
+:County rdf:type owl:DatatypeProperty ;
+        rdfs:domain :College ;
+        rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Female
+:Female rdf:type owl:DatatypeProperty ;
+        rdfs:domain :State ;
+        rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Height
+:Height rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Player ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#High_School_Graduate
+:High_School_Graduate rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :State ;
+                      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Household
+:Household rdf:type owl:DatatypeProperty ;
+           rdfs:domain :State ;
+           rdfs:range xsd:long .
+
+
+###  http://www.semanticweb.org/MyOntology#Housing_Units
+:Housing_Units rdf:type owl:DatatypeProperty ;
+               rdfs:domain :State ;
+               rdfs:range xsd:long .
+
+
+###  http://www.semanticweb.org/MyOntology#Jersey
+:Jersey rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Player ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#Land_area_in_sq_mile
+:Land_area_in_sq_mile rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :State ;
+                      rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/MyOntology#Latitude
+:Latitude rdf:type owl:DatatypeProperty ;
+          rdfs:domain :College ;
+          rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/MyOntology#Level
+:Level rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Player ;
+       rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Longitude
+:Longitude rdf:type owl:DatatypeProperty ;
+           rdfs:domain :College ;
+           rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/MyOntology#Mean_Travel_time_To_Work
+:Mean_Travel_time_To_Work rdf:type owl:DatatypeProperty ;
+                          rdfs:domain :State ;
+                          rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/MyOntology#Median_Value_of_Housing_Units
+:Median_Value_of_Housing_Units rdf:type owl:DatatypeProperty ;
+                               rdfs:domain :State ;
+                               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Median_gross_rent
+:Median_gross_rent rdf:type owl:DatatypeProperty ;
+                   rdfs:domain :State ;
+                   rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Median_household_Income
+:Median_household_Income rdf:type owl:DatatypeProperty ;
+                         rdfs:domain :State ;
+                         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#People_65_years_and_over
+:People_65_years_and_over rdf:type owl:DatatypeProperty ;
+                          rdfs:domain :State ;
+                          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#People_in_Poverty
+:People_in_Poverty rdf:type owl:DatatypeProperty ;
+                   rdfs:domain :State ;
+                   rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#People_per_Household
+:People_per_Household rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :State ;
+                      rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/MyOntology#People_under_18_years
+:People_under_18_years rdf:type owl:DatatypeProperty ;
+                       rdfs:domain :State ;
+                       rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#People_under_5_years
+:People_under_5_years rdf:type owl:DatatypeProperty ;
+                      rdfs:domain :State ;
+                      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Pick
+:Pick rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Draft ;
+      rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#Player_Name
+:Player_Name rdf:type owl:DatatypeProperty ;
+             rdfs:domain :Draft ,
+                         :Player ;
+             rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Population
+:Population rdf:type owl:DatatypeProperty ;
+            rdfs:domain :State ;
+            rdfs:range xsd:long .
+
+
+###  http://www.semanticweb.org/MyOntology#Population_per_sq_mile
+:Population_per_sq_mile rdf:type owl:DatatypeProperty ;
+                        rdfs:domain :State ;
+                        rdfs:range xsd:float .
+
+
+###  http://www.semanticweb.org/MyOntology#Position
+:Position rdf:type owl:DatatypeProperty ;
+          rdfs:domain :Draft ,
+                      :Player ;
+          rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Position_Group
+:Position_Group rdf:type owl:DatatypeProperty ;
+                rdfs:domain :Player ;
+                rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#RND
+:RND rdf:type owl:DatatypeProperty ;
+     rdfs:domain :Draft ;
+     rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#Side
+:Side rdf:type owl:DatatypeProperty ;
+      rdfs:domain :Player ;
+      rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#State_Abbr
+:State_Abbr rdf:type owl:DatatypeProperty ;
+            rdfs:domain :State ;
+            rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#State_Name
+:State_Name rdf:type owl:DatatypeProperty ;
+            rdfs:domain :College ,
+                        :State ;
+            rdfs:range xsd:string ;
+            rdfs:comment "This is a class of states" .
+
+
+###  http://www.semanticweb.org/MyOntology#System
+:System rdf:type owl:DatatypeProperty ;
+        rdfs:domain :College ;
+        rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Team_Location
+:Team_Location rdf:type owl:DatatypeProperty ;
+               rdfs:domain :Player ;
+               rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Team_Name
+:Team_Name rdf:type owl:DatatypeProperty ;
+           rdfs:domain :Draft ,
+                       :Player ;
+           rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Telephone
+:Telephone rdf:type owl:DatatypeProperty ;
+           rdfs:domain :College ;
+           rdfs:range xsd:long .
+
+
+###  http://www.semanticweb.org/MyOntology#Website
+:Website rdf:type owl:DatatypeProperty ;
+         rdfs:domain :College ;
+         rdfs:range xsd:string .
+
+
+###  http://www.semanticweb.org/MyOntology#Weight
+:Weight rdf:type owl:DatatypeProperty ;
+        rdfs:domain :Player ;
+        rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#Years
+:Years rdf:type owl:DatatypeProperty ;
+       rdfs:domain :Player ;
+       rdfs:range xsd:integer .
+
+
+###  http://www.semanticweb.org/MyOntology#ZipCode
+:ZipCode rdf:type owl:DatatypeProperty ;
+         rdfs:domain :College ;
+         rdfs:range xsd:integer .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/MyOntology#College
+:College rdf:type owl:Class ;
+         rdfs:comment "This is a class of all colleges" .
+
+
+###  http://www.semanticweb.org/MyOntology#Draft
+:Draft rdf:type owl:Class ;
+       rdfs:comment "This is a class of all drafts" .
+
+
+###  http://www.semanticweb.org/MyOntology#Player
+:Player rdf:type owl:Class ;
+        rdfs:comment "This is a class of all players" .
+
+
+###  http://www.semanticweb.org/MyOntology#State
+:State rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/MyOntology#Team
+:Team rdf:type owl:Class ;
+      rdfs:comment "This is a class of all teams" .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi
