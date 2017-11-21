@@ -1,0 +1,254 @@
+Rnd,Pick,Tm,Player,Pos,Age,College/Univ
+1,1,Los Angeles,Jared Goff,QB,21,California
+1,2,Philadelphia,Carson Wentz,QB,23,North Dakota St.
+1,3,San Diego,Joey Bosa,DE,21,Ohio St.
+1,4,Dallas,Ezekiel Elliott,RB,21,Ohio St.
+1,5,Jacksonville,Jalen Ramsey,CB,21,Florida St.
+1,6,Baltimore,Ronnie Stanley,OT,22,Notre Dame
+1,7,San Francisco,DeForest Buckner,DE,22,Oregon
+1,8,Tennessee,Jack Conklin,OT,22,Michigan St.
+1,9,Chicago,Leonard Floyd,LB,24,Georgia
+1,10,New York Giants,Eli Apple,CB,21,Ohio St.
+1,11,Tampa Bay,Vernon Hargreaves,CB,21,Florida
+1,12,New Orleans,Sheldon Rankins,DT,22,Louisville
+1,13,Miami,Laremy Tunsil,OT,22,Mississippi
+1,14,Oakland,Karl Joseph,S,23,West Virginia
+1,15,Cleveland,Corey Coleman,WR,22,Baylor
+1,16,Detroit,Taylor Decker,OT,22,Ohio St.
+1,17,Atlanta,Keanu Neal,S,21,Florida
+1,18,Indianapolis,Ryan Kelly,C,23,Alabama
+1,19,Buffalo,Shaq Lawson,DE,22,Clemson
+1,20,New York Jets,Darron Lee,LB,21,Ohio St.
+1,21,Houston,Will Fuller,WR,22,Notre Dame
+1,22,Washington,Josh Doctson,WR,23,TCU
+1,23,Minnesota,Laquon Treadwell,WR,21,Mississippi
+1,24,Cincinnati,William Jackson,CB,23,Houston
+1,25,Pittsburgh,Artie Burns,CB,21,Miami (FL)
+1,26,Denver,Paxton Lynch,QB,22,Memphis
+1,27,Green Bay,Kenny Clark,DT,20,UCLA
+1,28,San Francisco,Joshua Garnett,G,22,Stanford
+1,29,Arizona,Robert Nkemdiche,DT,22,Mississippi
+1,30,Carolina,Vernon Butler,DT,22,Louisiana Tech
+1,31,Seattle,Germain Ifedi,G,22,Texas A&M
+2,32,Cleveland,Emmanuel Ogbah,DE,22,Oklahoma St.
+2,33,Tennessee,Kevin Dodd,DE,24,Clemson
+2,34,Dallas,Jaylon Smith,LB,21,Notre Dame
+2,35,San Diego,Hunter Henry,TE,21,Arkansas
+2,36,Jacksonville,Myles Jack,LB,21,UCLA
+2,37,Kansas City,Chris Jones,DT,22,Mississippi St.
+2,38,Miami,Xavien Howard,CB,23,Baylor
+2,39,Tampa Bay,Noah Spence,DE,22,East. Kentucky
+2,40,New York Giants,Sterling Shepard,WR,22,Oklahoma
+2,41,Buffalo,Reggie Ragland,LB,23,Alabama
+2,42,Baltimore,Kamalei Correa,DE,22,Boise St.
+2,43,Tennessee,Austin Johnson,NT,22,Penn St.
+2,44,Oakland,Jihad Ward,DE,22,Illinois
+2,45,Tennessee,Derrick Henry,RB,22,Alabama
+2,46,Detroit,A'Shawn Robinson,DT,21,Alabama
+2,47,New Orleans,Michael Thomas,WR,23,Ohio St.
+2,48,Green Bay,Jason Spriggs,OT,22,Indiana
+2,49,Seattle,Jarran Reed,DT,23,Alabama
+2,50,Houston,Nick Martin,G,23,Notre Dame
+2,51,New York Jets,Christian Hackenberg,QB,21,Penn St.
+2,52,Atlanta,Deion Jones,LB,21,LSU
+2,53,Washington,Su'a Cravens,LB,21,USC
+2,54,Minnesota,Mackensie Alexander,CB,22,Clemson
+2,55,Cincinnati,Tyler Boyd,WR,21,Pittsburgh
+2,56,Chicago,Cody Whitehair,G,24,Kansas St.
+2,57,Indianapolis,T.J. Green,S,21,Clemson
+2,58,Pittsburgh,Sean Davis,CB,22,Maryland
+2,59,Tampa Bay,Roberto Aguayo,PK,22,Florida St.
+2,60,New England,Cyrus Jones,CB,22,Alabama
+2,61,New Orleans,Vonn Bell,S,21,Ohio St.
+2,62,Carolina,James Bradberry,CB,23,Samford
+2,63,Denver,Adam Gotsis,DT,24,Georgia Tech
+3,64,Tennessee,Kevin Byard,S,23,Middle Tenn. St.
+3,65,Cleveland,Carl Nassib,DE,23,Penn St.
+3,66,San Diego,Max Tuerk,C,22,USC
+3,67,Dallas,Maliek Collins,DT,21,Nebraska
+3,68,San Francisco,Will Redmond,CB,22,Mississippi St.
+3,69,Jacksonville,Yannick Ngakoue,DE,21,Maryland
+3,70,Baltimore,Bronson Kaufusi,DE,25,BYU
+3,71,New York Giants,Darian Thompson,S,23,Boise St.
+3,72,Chicago,Jonathan Bullard,DT,22,Florida
+3,73,Miami,Kenyan Drake,RB,22,Alabama
+3,74,Kansas City,KeiVarae Russell,CB,22,Notre Dame
+3,75,Oakland,Shilique Calhoun,DE,24,Michigan St.
+3,76,Cleveland,Shon Coleman,OT,24,Auburn
+3,77,Carolina,Daryl Worley,CB,21,West Virginia
+3,78,New England,Joe Thuney,G,23,North Carolina St.
+3,79,Philadelphia,Isaac Seumalo,G,22,Oregon St.
+3,80,Buffalo,Adolphus Washington,DT,21,Ohio St.
+3,81,Atlanta,Austin Hooper,TE,21,Stanford
+3,82,Indianapolis,Le'Raven Clark,OT,23,Texas Tech
+3,83,New York Jets,Jordan Jenkins,LB,22,Georgia
+3,84,Washington,Kendall Fuller,CB,21,Virginia Tech
+3,85,Houston,Braxton Miller,WR,23,Ohio St.
+3,86,Miami,Leonte Carroo,WR,22,Rutgers
+3,87,Cincinnati,Nick Vigil,LB,23,Utah St.
+3,88,Green Bay,Kyler Fackrell,LB,24,Utah St.
+3,89,Pittsburgh,Javon Hargrave,DT,23,South Carolina St.
+3,90,Seattle,C.J. Prosise,RB,22,Notre Dame
+3,91,New England,Jacoby Brissett,QB,22,North Carolina St.
+3,92,Arizona,Brandon Williams,CB,24,Texas A&M
+3,93,Cleveland,Cody Kessler,QB,23,USC
+3,94,Seattle,Nick Vannett,TE,23,Ohio St.
+3,95,Detroit,Graham Glasgow,C,24,Michigan
+3,96,New England,Vincent Valentine,DT,22,Nebraska
+3,97,Seattle,Rees Odhiambo,G,24,Boise St.
+3,98,Denver,Justin Simmons,S,22,Boston Col.
+4,99,Cleveland,Joe Schobert,LB,22,Wisconsin
+4,100,Oakland,Connor Cook,QB,23,Michigan St.
+4,101,Dallas,Charles Tapper,DE,23,Oklahoma
+4,102,San Diego,Joshua Perry,LB,22,Ohio St.
+4,103,Jacksonville,Sheldon Day,DT,22,Notre Dame
+4,104,Baltimore,Tavon Young,CB,22,Temple
+4,105,Kansas City,Parker Ehinger,G,23,Cincinnati
+4,106,Kansas City,Eric Murray,CB,22,Minnesota
+4,107,Baltimore,Chris Moore,WR,23,Cincinnati
+4,108,Tampa Bay,Ryan Smith,CB,23,North Carolina Central
+4,109,New York Giants,B.J. Goodson,LB,23,Clemson
+4,110,Los Angeles,Tyler Higbee,TE,23,West. Kentucky
+4,111,Detroit,Miles Killebrew,S,23,Southern Utah
+4,112,New England,Malcolm Mitchell,WR,23,Georgia
+4,113,Chicago,Nick Kwiatkoski,LB,23,West Virginia
+4,114,Cleveland,Ricardo Louis,WR,22,Auburn
+4,115,Atlanta,De'Vondre Campbell,LB,23,Minnesota
+4,116,Indianapolis,Hassan Ridgeway,DT,21,Texas
+4,117,Los Angeles,Pharoh Cooper,WR,21,South Carolina
+4,118,New York Jets,Juston Burris,CB,23,North Carolina St.
+4,119,Houston,Tyler Ervin,RB,22,San Jose St.
+4,120,New Orleans,David Onyemata,DT,23,Manitoba
+4,121,Minnesota,Willie Beavers,OT,22,West. Michigan
+4,122,Cincinnati,Andrew Billings,NT,20,Baylor
+4,123,Pittsburgh,Jerald Hawkins,OT,22,LSU
+4,124,Chicago,Deon Bush,S,23,Miami (FL)
+4,125,Indianapolis,Antonio Morrison,LB,21,Florida
+4,126,Kansas City,Demarcus Robinson,WR,22,Florida
+4,127,Chicago,Deiondre' Hall,CB,22,Northern Iowa
+4,128,Arizona,Evan Boehm,C,23,Missouri
+4,129,Cleveland,Derrick Kindred,S,22,TCU
+4,130,Baltimore,Alex Lewis,OT,24,Nebraska
+4,131,Green Bay,Blake Martinez,LB,22,Stanford
+4,132,Baltimore,Willie Henry,DT,22,Michigan
+4,133,San Francisco,Rashard Robinson,CB,21,LSU
+4,134,Baltimore,Kenneth Dixon,RB,22,Louisiana Tech
+4,135,Dallas,Dak Prescott,QB,23,Mississippi St.
+4,136,Denver,Devontae Booker,RB,23,Utah
+4,137,Green Bay,Dean Lowry,DE,22,Northwestern
+4,138,Cleveland,Seth Devalve,TE,23,Princeton
+4,139,Buffalo,Cardale Jones,QB,24,Ohio St.
+5,140,Tennessee,Tajae Sharpe,WR,21,Massachusetts
+5,141,Carolina,Zack Sanchez,CB,22,Oklahoma
+5,142,San Francisco,Ronald Blair,DE,23,Appalachian St.
+5,143,Oakland,DeAndre Washington,RB,23,Texas Tech
+5,144,Denver,Connor McGovern,G,23,Missouri
+5,145,San Francisco,John Theus,OT,22,Georgia
+5,146,Baltimore,Matt Judon,DE,24,Grand Valley St.
+5,147,Seattle,Quinton Jefferson,DT,23,Maryland
+5,148,Tampa Bay,Caleb Benenoch,OT,22,UCLA
+5,149,New York Giants,Paul Perkins,RB,21,UCLA
+5,150,Chicago,Jordan Howard,RB,21,Indiana
+5,151,Detroit,Joe Dahl,G,23,Washington St.
+5,152,Washington,Matthew Ioannidis,DT,21,Temple
+5,153,Philadelphia,Wendell Smallwood,RB,22,West Virginia
+5,154,Cleveland,Jordan Payton,WR,23,UCLA
+5,155,Indianapolis,Joe Haeg,OT,23,North Dakota St.
+5,156,Buffalo,Jonathan Williams,RB,22,Arkansas
+5,157,Tennessee,LeShaun Sims,CB,23,Southern Utah
+5,158,New York Jets,Brandon Shell,OT,24,South Carolina
+5,159,Houston,K.J. Dillon,S,23,West Virginia
+5,160,Minnesota,Kentrell Brothers,LB,23,Missouri
+5,161,Cincinnati,Christian Westerman,G,23,Arizona St.
+5,162,Kansas City,Kevin Hogan,QB,23,Stanford
+5,163,Green Bay,Trevor Davis,WR,23,California
+5,164,Philadelphia,Halapoulivaati Vaitai,OT,23,TCU
+5,165,Kansas City,Tyreek Hill,WR,22,West Alabama
+5,166,Houston,D.J. Reader,NT,22,Clemson
+5,167,Arizona,Marqui Christian,S,21,Midwestern St.
+5,168,Cleveland,Spencer Drango,G,23,Baylor
+5,169,Detroit,Antwione Williams,LB,23,Georgia Southern
+5,170,Arizona,Cole Toner,OT,22,Harvard
+5,171,Seattle,Alex Collins,RB,22,Arkansas
+5,172,Cleveland,Rashard Higgins,WR,21,Colorado St.
+5,173,Cleveland,Trey Caldwell,DB,22,La-Monroe
+5,174,San Francisco,Fahn Cooper,OT,23,Mississippi
+5,175,San Diego,Jatavis Brown,LB,22,Akron
+6,176,Denver,Andy Janovich,FB,23,Nebraska
+6,177,Los Angeles,Temarrick Hemingway,TE,23,South Carolina St.
+6,178,Kansas City,D.J. White,CB,23,Georgia Tech
+6,179,San Diego,Drew Kaser,P,23,Texas A&M
+6,180,Minnesota,Moritz Boehringer,WR,22,
+6,181,Jacksonville,Tyrone Holmes,LB,23,Montana
+6,182,Baltimore,Keenan Reynolds,RB,21,Navy
+6,183,Tampa Bay,Devante Bond,LB,23,Oklahoma
+6,184,New York Giants,Jerell Adams,TE,23,South Carolina
+6,185,Chicago,DeAndre Houston-Carson,S,23,William & Mary
+6,186,Miami,Jakeem Grant,WR,23,Texas Tech
+6,187,Washington,Nate Sudfeld,QB,22,Indiana
+6,188,Minnesota,David Morgan,TE,23,Texas-San Antonio
+6,189,Dallas,Anthony Brown,CB,22,Purdue
+6,190,Los Angeles,Josh Forrest,LB,24,Kentucky
+6,191,Detroit,Jake Rudock,QB,23,Michigan
+6,192,Buffalo,Kolby Listenbee,WR,22,TCU
+6,193,Tennessee,Sebastian Tretola,G,24,Arkansas
+6,194,Oakland,Cory James,LB,23,Colorado St.
+6,195,Atlanta,Wes Schweitzer,G,23,San Jose St.
+6,196,Philadelphia,Blake Countess,CB,23,Auburn
+6,197,Tampa Bay,Dan Vitale,FB,22,Northwestern
+6,198,San Diego,Derek Watt,FB,23,Wisconsin
+6,199,Cincinnati,Cody Core,WR,22,Mississippi
+6,200,Green Bay,Kyle Murphy,OT,22,Stanford
+6,201,Jacksonville,Brandon Allen,QB,24,Arkansas
+6,202,Detroit,Anthony Zettel,DT,24,Penn St.
+6,203,Kansas City,Dadi Nicolas,DE,24,Virginia Tech
+6,204,Miami,Jordan Lucas,S,23,Penn St.
+6,205,Arizona,Harlan Miller,CB,22,SE Louisiana
+6,206,Los Angeles,Mike Thomas,WR,22,Southern Miss
+6,207,San Francisco,Jeff Driskel,QB,23,Louisiana Tech
+6,208,New England,Kamu Grugier-Hill,LB,22,East. Illinois
+6,209,Baltimore,Maurice Canady,CB,22,Virginia
+6,210,Detroit,Jimmy Landes,LS,24,Baylor
+6,211,San Francisco,Kelvin Taylor,RB,23,Florida
+6,212,Dallas,Kavon Frazier,S,22,Central Michigan
+6,213,San Francisco,Aaron Burbridge,WR,22,Michigan St.
+6,214,New England,Elandon Roberts,LB,22,Houston
+6,215,Seattle,Joey Hunt,C,22,TCU
+6,216,Dallas,Darius Jackson,RB,22,East. Michigan
+6,217,Dallas,Rico Gathers,TE,22,Baylor
+6,218,Buffalo,Kevon Seymour,CB,22,USC
+6,219,Denver,Will Parks,S,22,Arizona
+6,220,Pittsburgh,Travis Feeney,LB,23,Washington
+6,221,New England,Ted Karras,G,23,Illinois
+7,222,Tennessee,Aaron Wallace,LB,23,UCLA
+7,223,Miami,Brandon Doughty,QB,24,West. Kentucky
+7,224,San Diego,Donavon Clark,G,23,Michigan St.
+7,225,New England,Devin Lucien,WR,23,Arizona St.
+7,226,Jacksonville,Jonathan Woodard,DE,23,Central Arkansas
+7,227,Minnesota,Stephen Weatherly,LB,22,Vanderbilt
+7,228,Denver,Riley Dixon,P,23,Syracuse
+7,229,Pittsburgh,Demarcus Ayers,WR,22,Houston
+7,230,Chicago,Daniel Braverman,WR,23,West. Michigan
+7,231,Miami,Thomas Duarte,TE,21,UCLA
+7,232,Washington,Steven Daniels,LB,23,Boston Col.
+7,233,Philadelphia,Jalen Mills,S,22,LSU
+7,234,Oakland,Vadal Alexander,G,22,LSU
+7,235,New York Jets,Lac Edwards,P,24,Sam Houston St.
+7,236,Detroit,Dwayne Washington,RB,22,Washington
+7,237,New Orleans,Daniel Lasco,RB,23,California
+7,238,Atlanta,Devin Fuller,WR,22,UCLA
+7,239,Indianapolis,Trevor Bates,LB,23,Maine
+7,240,Philadelphia,Alex McCalister,DE,22,Florida
+7,241,New York Jets,Charone Peake,WR,23,Clemson
+7,242,Washington,Keith Marshall,RB,22,Georgia
+7,243,Seattle,Kenny Lawler,WR,22,California
+7,244,Minnesota,Jayron Kearse,S,22,Clemson
+7,245,Cincinnati,Clayton Fejedelem,S,23,Illinois
+7,246,Pittsburgh,Tyler Matakevich,LB,23,Temple
+7,247,Seattle,Zac Brooks,RB,23,Clemson
+7,248,Indianapolis,Austin Blythe,C,24,Iowa
+7,249,San Francisco,Prince Charles Iworah,CB,23,West. Kentucky
+7,250,Cleveland,Scooby Wright,LB,22,Arizona
+7,251,Philadelphia,Joe Walker,LB,23,Oregon
+7,252,Carolina,Beau Sandland,TE,23,Montana St.
+7,253,Tennessee,Kalan Reed,CB,22,Southern Miss
