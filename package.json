@@ -1,0 +1,27 @@
+{
+  "name": "federated-sports-ontology",
+  "version": "1.0.0",
+  "description": "Federated Sports Ontology",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkasturiusc/Federated-Sports-Ontology.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Viswambharan Kasturi Rangarajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkasturiusc/Federated-Sports-Ontology/issues"
+  },
+  "homepage": "https://github.com/vkasturiusc/Federated-Sports-Ontology#readme",
+  "dependencies": {
+    "good": "^7.3.0",
+    "hapi": "^17.1.1",
+    "path": "^0.12.7"
+  }
+}
